@@ -1,0 +1,73 @@
+window.posts = [
+    {
+      title: "¡Bienvenidos a nuestro blog sobre eficiencia energética y energías renovables en la vivienda!",
+      imagen: "<img src='Imagenes/PC_casa.jpg' alt='Imagen Inicio' width=25% height=25%>",
+      content: "<p>Aquí encontrarás consejos prácticos, ideas innovadoras y soluciones sostenibles para hacer de tu hogar un espacio más ecológico, confortable y económico, basadas en mi experiencia personal en la mejora de mi propia vivienda.</p> <p> </p> <p>Este blog nació de mi deseo de compartir información y experiencias relacionadas con la adopción de tecnologías limpias y prácticas sostenibles en el hogar, tanto para aquellos que ya han comenzado su camino hacia un hogar más verde como para quienes están buscando inspiración y conocimientos para dar el primer paso.</p> <p> </p> <p>En este espacio amigable y cercano, descubrirás cómo puedes aprovechar al máximo la energía solar, eólica, geotérmica, entre otras fuentes renovables, para abastecer tu hogar de manera eficiente y respetuosa con el medio ambiente. También te brindaré consejos para mejorar el aislamiento térmico, reducir el consumo de energía y optimizar tus electrodomésticos, para que puedas ahorrar dinero y cuidar el planeta al mismo tiempo.</p> <p> </p> <p>No importa si eres un experto en energías renovables o simplemente alguien interesado en aprender cómo adoptar hábitos más sostenibles en tu vida diaria, este blog tiene algo para ti. A lo largo de nuestras publicaciones, te acompañaré en tu viaje hacia un hogar más verde y energéticamente eficiente, compartiendo historias de éxito, reseñas de productos y soluciones de vanguardia.</p> <p> </p> <p>¡Únete a nuestra comunidad de entusiastas del hogar ecológico y juntos demos un paso adelante hacia un futuro más sostenible! No olvides suscribirte y seguirnos en nuestras redes sociales para mantenerte al tanto de las últimas novedades, y no dudes en dejarnos tus comentarios y sugerencias. Estamos encantados de tenerte aquí y de compartir este emocionante camino contigo. ¡Comencemos!</p>",
+      date: "2023-04-10",
+      section: "inicio",
+    },
+    {
+      title: "Acerca de",
+      imagen: "",
+      content: "<p>¡Hola! Mi nombre es Francisco y soy el creador de este blog. Mi pasión por la eficiencia energética y las energías renovables en el hogar comenzó cuando adquirí mi propia vivienda. Desde ese momento, me dediqué a investigar y aprender todo lo que pude sobre cómo mejorar mi hogar de la manera más sostenible y eficiente posible.</p><p> </p><p>A lo largo de mi aventura personal, descubrí que hay muchas personas interesadas en hacer lo mismo, pero que a menudo se encuentran con información confusa o contradictoria. Por eso, decidí crear este espacio amigable y cercano, donde compartiré mi experiencia y conocimientos adquiridos para ayudar a otros en su camino hacia un hogar más ecológico y eficiente.</p><p> </p><p>En este blog, encontrarás consejos prácticos, soluciones innovadoras y mis propias vivencias en el proceso de mejora de mi hogar, todo con un enfoque en la eficiencia energética y la adopción de energías renovables. Además, estaré encantado de escuchar tus propias experiencias y aprender juntos en esta apasionante aventura hacia un futuro más sostenible.</p><p> </p><p>Mi objetivo es que este espacio sea un punto de encuentro donde podamos compartir ideas, consejos y experiencias, y así ayudarnos mutuamente a tomar decisiones informadas sobre cómo mejorar nuestras viviendas de manera sostenible. Si eres un experto en el tema o simplemente alguien que está buscando mejorar su hogar y cuidar el medio ambiente, este blog es para ti.</p><p> </p><p>Te invito a unirte a nuestra comunidad de entusiastas del hogar ecológico, a participar en la conversación y a compartir tus ideas y preguntas. No olvides suscribirte y seguirnos en nuestras redes sociales para estar al tanto de las últimas novedades. ¡Juntos podemos construir un futuro más verde y sostenible!</p><p> </p><p>Un saludo energético,</p>",
+      date: "2023-04-09",
+      section: "acerca_de",
+    },
+    {
+      title: "Publicación 3",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "consejos",
+    },
+    {
+      title: "Publicación 4",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "productos",
+    },
+    {
+      title: "Publicación 5",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "proyectos",
+    },
+    {
+      title: "Publicación 6",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "proyectos",
+    },
+    {
+      title: "Publicación 7",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "proyectos",
+    },
+    {
+      title: "Publicación 8",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "productos",
+    },
+    {
+      title: "Publicación 9",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "consejos",
+    },
+    {
+      title: "Publicación 10",
+      imagen: "",
+      content: "Contenido de la publicación 3.",
+      date: "2023-04-08",
+      section: "productos",
+    },
+  ];
+  
